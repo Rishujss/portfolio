@@ -296,6 +296,9 @@ img {
 .home__data {
   grid-column: 1/2;
 }
+.about__data {
+  grid-column: 1/2;
+}
 
 .home__title {
   font-size: var(--big-font-size);
